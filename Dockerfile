@@ -1,4 +1,4 @@
-FROM ubuntu:lastest
+FROM ubuntu:latest
 MAINTAINER sumin "sumink0903@gmail.com"
 
 RUN apt-get update
