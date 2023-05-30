@@ -15,7 +15,7 @@ on:
   
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: eeap
+  ECR_REPOSITORY: s2n2b3r0/eeap
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
