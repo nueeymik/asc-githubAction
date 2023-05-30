@@ -1,0 +1,5 @@
+services:
+  nginx:
+    image: eeap/asc:v1
+    ports:
+      - "8080:80"
